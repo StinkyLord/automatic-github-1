@@ -5,8 +5,9 @@
       "matchHost": "https://npm.pkg.github.com/",
       "hostType": "npm",
       "encrypted": {
-        "token": "wcFMA/xDdHCJBTolAQ/7BMXPT64NvGx+lsNvk+R5/mCJaxv4sC+b3kZuSWTPsYq6S1an5kxayzCpSPPcllC8KDHyfJQJvct4XcihIK7qNrpl3zy094MuiT7nG5jNc+CEwX6JWFvLoa8/1a30xlaQwwtyGK9p3BjlEFmP+vlvdnSasPo7Y4/qtPXRdI34B7f7MhHRK0bq500kCK5mYal1R1jGGqz4/eTfBO90dF9Are4E/BJ8qjiSVmUD2MiFlouT2Yh0s0VK7LZLQHaQnE6S+rFOL3UpyYfqad3vu31Fl49NjhLv6ZWrvmVTJwEjUBXhlBw+NdGXEsMlctPFsrmlGuAO7UFqYAw5mlO0z9R3n9qZJL5EXURdqZuCS4BSbdJ5tQprh81NaWA1rCjez5HhEbYOs4bztmAJM0nM/XyXp4NYPuoYZqpGkpinESeAWDxdcGYNek8BxUz7BLZwDGOKOq+R3QwPVn/2HHBmAV4mFj11intEy5q7LMHNIUr7ZoG1ruTPHGvpMJW6jCT7BMxJueuVRpgL+CKtfvzE2Hxh9KTa8XChnYxUM5CjDRQvwLh5V2kRjucg14j6wBy4JP+toQtd0qC99dc4C/EMi4JNxPxZ1cuHrM6fGe9Zq4m1hgqNihR5+bwsBCvwysCfv2Q69ZdHKtm8TytUvtu3c8kZHEipOoxsmvisHjkQ7Py8kYXSeQEcEIpU2Eq6cWKZhhO+d2lU8QxEI+2HVgWgGPjaiXq0rGjXbqf4z4oqdeDNw2sld2IBmK7XRImluSodPSIcOFUlbEaCpUgl3mX43fsOiyM4TfqixBCehv+sP88egviC9z1McOwxrH6wQ7U3D2LMov3SqBjfVjMZ5FU"
-      }
+        "token": "wcFMA/xDdHCJBTolARAAjeQGblj1bNZelrAmc9Et7Spmbi4hkGmYxl+a3R4xyuiKv7B2YkX06h3csqj4pezm0J//GsHcBKkHXf3XLnPVBKVe5cxwg2J43AZJid45aBgWcIFbRf0O27YczxE4Z7hq45WumPVOWGiEZY5PKvAGego9Jf7B+woGQonoZ+pk6HGU5jy0fZVmyIrm2KocGzf6Qm1z16kUnm8Ly6r+fGFCa6DIRebhUeP1dfQlpNvzL0jVMReqtFNHqQIJcbSAUQWzIDzEVDdAUpYU5J4hKZ94So7faWAPTEDizn/52UsIbav7qC63SD0UgTTkDos+K4d524Lkm3pmzuMhdrFQJ0iDmBnBqbrET5WC5E3/ltb3gSB2qdtjxa5U65YvYWYVjvRE22zEXQLQBkZ+v6yEqtRyDQ4tJmTpOWHTZr4JhrAgAbBvYI6LmGfvGdu0ismVDzn5RxDzZWfOCEUN1p3B43BV2mGQnX7O3C/UYy/fXMHrWZGG2LkaLNwZVyqTvS8Z54KUFtrNt7GqiHU7jgAPQTE0R+EY1Ilv2h+jVqp/kSk9Y/hnErgylNmvhl3VqeCmsZgbR1vEKRJpfV9FP4WSWpXACgvnoEja0AQzVonqgEaDOArISh/76SfrvY8uRsSX8T8uMJ7lTLaEi9C0TqSNM2SwlAPNqvbUFE5+puHe2d4/D/TSeQGnuF9gqH6m8Sno4eqMmO0MDLKJXjRNZWhd1ohCWFfZf8pufWP59GcqDtAaQETXVBIkHCTLzbUCZWyVg/vLqTuWIVgAT64W53joPaI8RcWSSMbfh081QCYoZJwS5p37TdzrHtLhE8PfM57X29PI01x+0E5BREOOugk"
+      },
+      "npmrc": "@PhilipAbed:registry=https://npm.pkg.github.com/"
     }
   ],
   "npmrc": "@PhilipAbed:registry=https://npm.pkg.github.com/"
