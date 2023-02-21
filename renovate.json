@@ -9,6 +9,5 @@
       },
       "npmrc": "@PhilipAbed:registry=https://npm.pkg.github.com/"
     }
-  ],
-  "npmrc": "@PhilipAbed:registry=https://npm.pkg.github.com/"
+  ]
 }
