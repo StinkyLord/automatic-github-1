@@ -1,4 +1,5 @@
 {
+  "dependencyDashboard": true,
   "hostRules": [
     {
       "matchHost": "https://npm.pkg.github.com/",
